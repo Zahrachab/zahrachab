@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahra Chabane Chaouch</h1>
-<h3 align="center">I'm a passionate software engineer from Algeria. I have 2 years of experience designing and developing software solutions using different programming languages and technologies. I have a particular interest in the field of IoT and service oriented architectures.</h3>
+<h3 align="center">I'm a passionate software engineer from Algeria <ith experience in designing and developing software solutions using different programming languages and technologies. I have a particular interest in the field of IoT and service oriented architectures.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahrachab" alt="zahrachab" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
